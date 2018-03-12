@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: white;
+    
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+}
+
+body {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+u {
+    font-family: 'Rammetto One', cursive;
+    font-weight: bold;
+}
+
+span {
+    padding: 5px;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+
+
+font-family: 'Rammetto One', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Lobster Two', cursive;
